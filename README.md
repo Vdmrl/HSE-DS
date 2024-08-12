@@ -1,1 +1,1 @@
-HSE data science course educational projects
+HSE Data Science Projects
